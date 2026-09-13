@@ -1,0 +1,8 @@
+{
+  "name": "Portofolio Profesional ",
+  "description": "Website portofolio profesional interaktif dengan blok sertifikasi terverifikasi, integrasi sosial media rekruter, CMS terintegrasi, mode gelap, optimasi SEO, dan notifikasi kunjungan profil real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
